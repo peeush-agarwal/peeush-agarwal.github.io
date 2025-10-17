@@ -1,0 +1,100 @@
+/* Copy to clipboard button styles for Hacker theme */
+.highlight, pre {
+  position: relative;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #00ff41;
+  border: 1px solid #00ff41;
+  border-radius: 3px;
+  padding: 4px 8px;
+  font-size: 11px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  cursor: pointer;
+  opacity: 0;
+  transition: all 0.3s ease;
+  z-index: 10;
+  text-shadow: 0 0 3px #00ff41;
+  min-width: 55px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.copy-btn:hover {
+  background: rgba(0, 255, 65, 0.1);
+  color: #00ff41;
+  box-shadow: 0 0 5px #00ff41;
+}
+
+.highlight:hover .copy-btn,
+pre:hover .copy-btn {
+  opacity: 1;
+}
+
+.copy-btn.copied {
+  background: rgba(0, 255, 65, 0.2);
+  color: #00ff41;
+  animation: copied-flash 0.3s ease;
+}
+
+.copy-btn.copied::before {
+  content: "Copied! ✓";
+}
+
+@keyframes copied-flash {
+  0% { 
+    background: rgba(0, 255, 65, 0.4);
+    box-shadow: 0 0 10px #00ff41;
+  }
+  100% { 
+    background: rgba(0, 255, 65, 0.2);
+    box-shadow: 0 0 5px #00ff41;
+  }
+}
+
+/* Ensure code blocks have enough space for the button */
+.highlight pre,
+pre {
+  padding-right: 80px !important;
+}
+
+/* Handle different code block structures */
+.language-python .copy-btn,
+.language-bash .copy-btn,
+.language-javascript .copy-btn {
+  opacity: 0;
+}
+
+.language-python:hover .copy-btn,
+.language-bash:hover .copy-btn,
+.language-javascript:hover .copy-btn {
+  opacity: 1;
+}
+
+/* Additional button state management */
+.copy-btn:empty {
+  min-width: 55px;
+  height: 24px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .copy-btn {
+    position: static;
+    display: block;
+    margin: 5px 0;
+    opacity: 1;
+    width: 100%;
+    text-align: center;
+    min-width: auto;
+  }
+  
+  .highlight pre,
+  pre {
+    padding-right: 16px !important;
+  }
+}

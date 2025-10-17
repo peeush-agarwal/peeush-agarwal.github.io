@@ -1,0 +1,16 @@
+title: Notes
+description: Personal notes on various topics
+theme: jekyll-theme-hacker
+
+# MathJax configuration for LaTeX rendering
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Enable MathJax
+mathjax: true
+
+# Include assets
+include:
+  - assets
