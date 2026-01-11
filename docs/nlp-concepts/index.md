@@ -18,5 +18,6 @@ Each of these concepts plays a crucial role in various NLP applications, includi
 
 - [Getting Started with NLP](01-getting-started.md)
 - [Text Preprocessing Techniques](02-text-preprocessing.md)
+- [Feature Extraction Methods](03-feature-extraction.md)
 
 [Back to Home](../index.md)
