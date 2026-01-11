@@ -14,4 +14,31 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
    - **Text Generation**: Creating new text based on a given input (e.g., chatbots, content creation).
 4. **Language Models**: Models like GPT, BERT, and others that are trained on large datasets to understand and generate human language. They can be fine-tuned for specific NLP tasks.
 
+## Development setup
+
+To get started with NLP development, you can set up a Python environment with popular NLP libraries such as NLTK, SpaCy, Gensim, and Hugging Face's Transformers. You can use package managers like pip or uv to install these libraries. Following are the important libraries to consider:
+- **NLTK**: A comprehensive library for NLP tasks, including tokenization, stemming, and more.
+  
+  ```bash
+    pip install nltk
+    uv add nltk
+  ```
+- **SpaCy**: An industrial-strength NLP library with pre-trained models for various languages.
+  ```bash
+    pip install spacy
+    uv add spacy
+  ```
+- **Gensim**: A library for topic modeling and document similarity analysis.
+  ```bash
+    pip install gensim
+    uv add gensim
+  ```
+- **Transformers**: A library by Hugging Face that provides pre-trained models for various NLP tasks.
+  ```bash
+    pip install transformers
+    uv add transformers
+  ```
+
+For hands-on practice, you can explore [NLP Jupyter notebooks](../../nbs/nlp/) in the `nbs/nlp/` directory, which contain examples and exercises on various NLP concepts and techniques.
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)
