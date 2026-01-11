@@ -53,6 +53,6 @@ Feature extraction is a crucial step in Natural Language Processing (NLP) that i
      - Requires large datasets for training.
      - More complex to implement and interpret.
 
-To see these feature extraction methods in action, check out the [Feature Extraction Notebook](../../nbs/nlp/03-feature-extraction.ipynb).
+To see these feature extraction methods in action, check out the [Feature Extraction Notebook](https://github.com/peeush-agarwal/peeush-agarwal.github.io/blob/3149e6d33aedfbeff599425e57b4b9a814e00514/nbs/nlp/03-feature-extraction.ipynb).
 
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)

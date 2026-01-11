@@ -42,6 +42,6 @@ Text preprocessing is a crucial step in Natural Language Processing (NLP) that i
     lemmatized_tokens = [lemmatizer.lemmatize(word) for word in tokens]
    ```
 
-To see these techniques in action, check out the [Text Preprocessing Notebook](../../nbs/nlp/02-text-preprocessing.ipynb).
+To see these techniques in action, check out the [Text Preprocessing Notebook](https://github.com/peeush-agarwal/peeush-agarwal.github.io/blob/3149e6d33aedfbeff599425e57b4b9a814e00514/nbs/nlp/02-text-preprocessing.ipynb).
 
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)
