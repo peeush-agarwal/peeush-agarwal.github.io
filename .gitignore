@@ -3,3 +3,4 @@ outputs/
 practice/
 
 .env
+.github/**.md
