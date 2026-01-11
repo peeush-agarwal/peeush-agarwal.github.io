@@ -8,3 +8,4 @@ Use the sections below to navigate specific topics. Contributions, corrections, 
 - [Machine Learning Algorithms and Fundamentals](ml-algos/index.md) - Overview of various machine learning algorithms and fundamental concepts.
 - [Prompt Library](prompt-library/index.md) - A curated collection of the best prompts to get the most out of ChatGPT and other LLMs.
 - [Data Structures and Algorithms Problems](dsa-problems/index.md) - A collection of problems categorized by data structures and algorithms, with links to solutions and explanations.
+- [Natural Language Processing (NLP) Concepts](nlp-concepts/index.md) - Fundamental concepts and techniques in Natural Language Processing.
