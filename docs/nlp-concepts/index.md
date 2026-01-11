@@ -17,5 +17,6 @@ Each of these concepts plays a crucial role in various NLP applications, includi
 ## Contents
 
 - [Getting Started with NLP](01-getting-started.md)
+- [Text Preprocessing Techniques](02-text-preprocessing.md)
 
 [Back to Home](../index.md)
