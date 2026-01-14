@@ -2,7 +2,7 @@
 
 In this example, we will perform sentiment analysis on the IMDB movie reviews dataset using Python and popular NLP libraries. The goal is to classify movie reviews as positive or negative based on their content.
 
-[Full Code Jupyter Notebook](nbs/nlp/04-imdb-reviews-project.ipynb)
+[Full Code Jupyter Notebook](https://github.com/peeush-agarwal/peeush-agarwal.github.io/blob/9657861abfc1753a66188775462e00378f7bd26b/nbs/nlp/04-imdb-reviews-project.ipynb)
 
 ## Step 1: Import Libraries
 
