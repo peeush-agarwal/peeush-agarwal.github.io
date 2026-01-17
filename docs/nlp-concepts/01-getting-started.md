@@ -41,4 +41,8 @@ To get started with NLP development, you can set up a Python environment with po
 
 For hands-on practice, you can explore [NLP Jupyter notebooks](https://github.com/peeush-agarwal/peeush-agarwal.github.io/tree/main/nbs/nlp) in the `nbs/nlp/` directory, which contain examples and exercises on various NLP concepts and techniques.
 
+---
+
+[>> Text Preprocessing](02-text-preprocessing.md)
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)

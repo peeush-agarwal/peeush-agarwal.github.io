@@ -118,4 +118,8 @@ print(classification_report(y_test, y_pred))
 
 This example demonstrates how to preprocess text data, extract features using different techniques, and train a machine learning model for sentiment analysis on the IMDB reviews dataset. You can experiment with different models and feature extraction methods to improve performance.
 
+---
+
+[<< Feature Extraction](03-feature-extraction.md) | [>> Recurrent Neural Networks (RNNs)](05-recurrent-neural-networks.md)
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)

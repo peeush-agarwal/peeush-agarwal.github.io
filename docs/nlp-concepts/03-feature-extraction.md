@@ -55,4 +55,8 @@ Feature extraction is a crucial step in Natural Language Processing (NLP) that i
 
 To see these feature extraction methods in action, check out the [Feature Extraction Notebook](https://github.com/peeush-agarwal/peeush-agarwal.github.io/blob/3149e6d33aedfbeff599425e57b4b9a814e00514/nbs/nlp/03-feature-extraction.ipynb).
 
+---
+
+[<< Text Preprocessing](02-text-preprocessing.md) | [>> IMDB Reviews Sentiment Analysis Hands-On](04-imdb-reviews-sentiment-analysis.md)
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)
