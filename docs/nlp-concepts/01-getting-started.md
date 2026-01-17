@@ -39,6 +39,6 @@ To get started with NLP development, you can set up a Python environment with po
     uv add transformers
   ```
 
-For hands-on practice, you can explore [NLP Jupyter notebooks](../../nbs/nlp/) in the `nbs/nlp/` directory, which contain examples and exercises on various NLP concepts and techniques.
+For hands-on practice, you can explore [NLP Jupyter notebooks](https://github.com/peeush-agarwal/peeush-agarwal.github.io/tree/main/nbs/nlp) in the `nbs/nlp/` directory, which contain examples and exercises on various NLP concepts and techniques.
 
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)
