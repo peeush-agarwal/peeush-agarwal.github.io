@@ -22,5 +22,6 @@ Each of these concepts plays a crucial role in various NLP applications, includi
 - [IMDB Reviews Sentiment Analysis Example](04-imdb-reviews-sentiment-analysis.md)
 - [Recurrent Neural Networks (RNNs) in NLP](05-recurrent-neural-networks.md)
 - [Long Short-Term Memory (LSTM) Networks](06-lstm-rnn.md)
+- [Embeddings in NLP using TensorFlow](07-embeddings-tensorflow.md)
 
 [Back to Home](../index.md)
