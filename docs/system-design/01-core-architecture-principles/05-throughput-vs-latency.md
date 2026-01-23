@@ -38,6 +38,6 @@ Balancing throughput and latency is a critical aspect of system design that requ
 
 ---
 
-[<< ACID vs BASE](04-acid-vs-base.md)
+[<< ACID vs BASE](04-acid-vs-base.md) | [>> Amdahl's Law](06-amdahls-law.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)
