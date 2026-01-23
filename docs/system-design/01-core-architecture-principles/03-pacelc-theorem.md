@@ -34,6 +34,6 @@ The PACELC Theorem provides a nuanced understanding of the trade-offs in distrib
 
 ---
 
-[<< CAP Theorem](02-cap-theorem.md)
+[<< CAP Theorem](02-cap-theorem.md) | [>> ACID vs BASE](04-acid-vs-base.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)
