@@ -1,8 +1,10 @@
-# Notes
+# Knowledge Hub
 
-This repository contains personal notes I maintain while learning and exploring technical topics. It includes explanations, examples, code snippets, and curated links intended for quick reference and revision.
+This section contains the technical notes I create while learning, experimenting, and exploring concepts across machine learning, deep learning, NLP, computer vision, and engineering fundamentals. You’ll find concise explanations, examples, code snippets, and curated references—organized for quick recall, deeper understanding, and practical application.
 
-Use the sections below to navigate specific topics. Contributions, corrections, or suggestions are welcome — open an issue or submit a pull request in the repo.
+Use the categories below to browse specific topics.
+
+If you spot improvements or have suggestions, feel free to open an issue or submit a pull request.
 
 - [Design Patterns](design-patterns/index.md) - A catalog of design patterns for building software systems, including agentic AI.
 - [Machine Learning Algorithms and Fundamentals](ml-algos/index.md) - Overview of various machine learning algorithms and fundamental concepts.

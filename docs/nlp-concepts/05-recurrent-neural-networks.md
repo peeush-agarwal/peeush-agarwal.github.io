@@ -44,4 +44,8 @@ Despite their strengths, RNNs have some limitations:
 
 To address these limitations, advanced variants of RNNs, such as Long Short-Term Memory (LSTM) networks and Gated Recurrent Units (GRUs), have been developed. These architectures introduce gating mechanisms to better manage the flow of information and mitigate the vanishing gradient problem.
 
+---
+
+[<< IMDB Reviews Sentiment Analysis Hands-On](04-imdb-reviews-sentiment-analysis.md) | [>> LSTM RNNs](06-lstm-rnn.md)
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)

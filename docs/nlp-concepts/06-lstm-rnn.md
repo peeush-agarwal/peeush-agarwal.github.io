@@ -45,4 +45,8 @@ LSTMs have been widely used in various NLP tasks due to their ability to capture
 
 - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+---
+
+[<< Recurrent Neural Networks (RNNs)](05-recurrent-neural-networks.md)
+
 [Back to NLP Concepts](index.md) | [Back to Home](../index.md)
