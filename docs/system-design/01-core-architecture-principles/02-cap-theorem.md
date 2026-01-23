@@ -28,6 +28,6 @@ The CAP Theorem highlights the inherent trade-offs in designing distributed syst
 
 ---
 
-[<< Scaling](01-scaling.md)
+[<< Scaling](01-scaling.md) | [>> PACELC Theorem](03-pacelc-theorem.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)
