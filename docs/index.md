@@ -11,3 +11,4 @@ If you spot improvements or have suggestions, feel free to open an issue or subm
 - [Prompt Library](prompt-library/index.md) - A curated collection of the best prompts to get the most out of ChatGPT and other LLMs.
 - [Data Structures and Algorithms Problems](dsa-problems/index.md) - A collection of problems categorized by data structures and algorithms, with links to solutions and explanations.
 - [Natural Language Processing (NLP) Concepts](nlp-concepts/index.md) - Fundamental concepts and techniques in Natural Language Processing.
+- [System Design Concepts](system-design/index.md) - Key concepts and best practices for designing scalable and efficient systems.
