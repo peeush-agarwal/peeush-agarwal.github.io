@@ -8,5 +8,6 @@ This document outlines the fundamental principles for designing robust system ar
 1. [ACID vs BASE](04-acid-vs-base.md): Comparing the ACID properties of traditional databases with the BASE properties of NoSQL databases.
 1. [Throughput vs Latency](05-throughput-vs-latency.md): Balancing throughput and latency to meet application performance requirements.
 1. [Amdahl's Law](06-amdahls-law.md): Understanding the limits of parallelization and its impact on system performance.
+1. [Strong vs Eventual Consistency](07-strong-vs-eventual-consistency.md): Examining the differences between strong and eventual consistency models in distributed systems.
 
 [Back to System Design Concepts](../index.md) | [Back to Home](../../index.md)

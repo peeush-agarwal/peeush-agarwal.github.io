@@ -43,6 +43,6 @@ Amdahl's Law provides valuable insights into the limitations of parallelization 
 
 ---
 
-[<< Throughput vs Latency](05-throughput-vs-latency.md)
+[<< Throughput vs Latency](05-throughput-vs-latency.md) | [>> Strong vs Eventual Consistency](07-strong-vs-eventual-consistency.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)
