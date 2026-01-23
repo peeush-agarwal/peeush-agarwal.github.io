@@ -20,6 +20,8 @@ When designing a distributed system, it is essential to understand the trade-off
 - **AP Systems**: Suitable for applications where availability is more important than immediate consistency, such as social media platforms or content delivery networks.
 - **CA Systems**: Rarely used in practice due to the inevitability of network partitions, but may be applicable in tightly controlled environments with reliable networks.
 
+![CAP Theorem Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240813184051/cap.png)
+
 ## Conclusion
 
 The CAP Theorem highlights the inherent trade-offs in designing distributed systems. By understanding the implications of consistency, availability, and partition tolerance, system architects can make informed decisions that align with their application's needs and priorities.
