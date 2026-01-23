@@ -36,6 +36,6 @@ BASE is an acronym that stands for Basically Available, Soft state, and Eventual
 
 ---
 
-[<< PACELC Theorem](03-pacelc-theorem.md)
+[<< PACELC Theorem](03-pacelc-theorem.md) | [>> Throughput vs Latency](05-throughput-vs-latency.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)

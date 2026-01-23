@@ -6,5 +6,6 @@ This document outlines the fundamental principles for designing robust system ar
 1. [CAP Theorem](02-cap-theorem.md): Exploring the trade-offs between consistency, availability, and partition tolerance in distributed systems.
 1. [PACELC Theorem](03-pacelc-theorem.md): An extension of the CAP theorem that considers latency and consistency during normal operation.
 1. [ACID vs BASE](04-acid-vs-base.md): Comparing the ACID properties of traditional databases with the BASE properties of NoSQL databases.
+1. [Throughput vs Latency](05-throughput-vs-latency.md): Balancing throughput and latency to meet application performance requirements.
 
 [Back to System Design Concepts](../index.md) | [Back to Home](../../index.md)
