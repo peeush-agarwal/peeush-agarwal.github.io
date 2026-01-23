@@ -33,6 +33,6 @@ Choosing between strong and eventual consistency models is a critical decision i
 
 ---
 
-[<< Amdahl's Law](06-amdahls-law.md)
+[<< Amdahl's Law](06-amdahls-law.md) | [>> Stateful vs Stateless Architecture](08-stateful-vs-stateless.md)
 
 [Back to Core Architecture Principles](index.md) | [Back to System Design Concepts](../index.md)
