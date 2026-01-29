@@ -12,3 +12,4 @@ If you spot improvements or have suggestions, feel free to open an issue or subm
 - [Data Structures and Algorithms Problems](dsa-problems/index.md) - A collection of problems categorized by data structures and algorithms, with links to solutions and explanations.
 - [Natural Language Processing (NLP) Concepts](nlp-concepts/index.md) - Fundamental concepts and techniques in Natural Language Processing.
 - [System Design Concepts](system-design/index.md) - Key concepts and best practices for designing scalable and efficient systems.
+- [Deep Learning Concepts](deep-learning-concepts/index.md) - Core concepts and techniques in deep learning.
