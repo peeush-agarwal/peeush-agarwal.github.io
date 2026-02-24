@@ -9,10 +9,9 @@ Use the categories below to explore specific strategies for scaling systems. If 
 - [03. Load Balancing](03-load-balancing.md) - Implement load balancing to distribute traffic across multiple servers.
 - [04. Database Scaling](04-database-scaling.md) - Explore strategies for scaling databases, including sharding and replication.
 - [05. Caching Strategies](05-caching-strategies.md) - Use caching to improve performance and reduce load on your systems.
-- [06. Content Delivery Networks (CDNs)](06-cdns.md) - Leverage CDNs to deliver content efficiently to users around the world.
-- [07. Stateless vs Stateful Services](07-stateless-vs-stateful-services.md) - Understand the differences and implications for scaling.
-- [08. Data Centers](08-data-centers.md) - Explore the role of data centers in scaling and distributing your infrastructure.
-- [09. Message Queues](09-message-queues.md) - Use message queues to decouple components and improve scalability.
-- [10. Logging, metrics and Automation](10-logging-metrics-automation.md) - Implement logging, monitoring, and automation to manage and scale your systems effectively.
+- [06. Stateful vs Stateless Services](06-stateful-vs-stateless-services.md) - Understand the differences and implications for scaling.
+- [07. Data Centers](07-data-centers.md) - Explore the role of data centers in scaling and distributing your infrastructure.
+- [08. Message Queues](08-message-queues.md) - Use message queues to decouple components and improve scalability.
+- [09. Logging, metrics and Automation](09-logging-metrics-automation.md) - Implement logging, monitoring, and automation to manage and scale your systems effectively.
 
 [Back to System Design Concepts](../index.md) | [Back to Home](../../index.md)
