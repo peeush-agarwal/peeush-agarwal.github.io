@@ -7,4 +7,8 @@ Use the categories below to explore specific system design topics. If you have s
 
 - [Core Architecture Principles](01-core-architecture-principles/index.md) - Fundamental principles for designing robust system architectures.
 
+## Case Studies
+
+- [Design a Stock Exchange System](case-studies/01-stock-exchange-system.md) - A detailed case study on designing a stock exchange system, covering requirements, architecture, and implementation strategies.
+
 [Back to Home](../index.md)
